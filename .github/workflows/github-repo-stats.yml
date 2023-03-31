@@ -14,6 +14,6 @@ jobs:
         # Use latest release.
         uses: jgehrcke/github-repo-stats@HEAD
         with:
-          repository: tianocore/edk2-libc
+          repository: jpshivakavi/edk2-libc
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           databranch: main
