@@ -1,3 +1,4 @@
+name: edk2-libc-stats
 on:
   schedule:
     # Run this once per day, towards the end of the day for keeping the most
@@ -14,6 +15,6 @@ jobs:
         # Use latest release.
         uses: jgehrcke/github-repo-stats@HEAD
         with:
-          repository: jpshivakavi/edk2-libc
+          repository: tianocore/edk2-libc
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           databranch: main
