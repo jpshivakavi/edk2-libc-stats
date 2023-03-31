@@ -16,4 +16,5 @@ jobs:
         # Use latest release.
         uses: jpshivakavi/github-repo-stats@RELEASE
         with:
+          repository: tianocore/edk2-libc
           ghtoken: ${{ secrets.ghrs_github_api_token }}
