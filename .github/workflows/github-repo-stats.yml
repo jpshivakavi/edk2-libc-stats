@@ -1,5 +1,3 @@
-name: github-repo-stats
-
 on:
   schedule:
     # Run this once per day, towards the end of the day for keeping the most
@@ -9,12 +7,13 @@ on:
 
 jobs:
   j1:
-    name: github-repo-stats
+    name: edk2-libc-stats
     runs-on: ubuntu-latest
     steps:
       - name: run-ghrs
         # Use latest release.
-        uses: jpshivakavi/github-repo-stats@RELEASE
+        uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: tianocore/edk2-libc
           ghtoken: ${{ secrets.ghrs_github_api_token }}
+          databranch: main
