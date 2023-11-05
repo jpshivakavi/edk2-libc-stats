@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/tianocore/edk2-libc/blob/master/AppPkg/Applications/Python/Python-3.6.8/Py368ReadMe.txt,311,102
+/tianocore/edk2-libc,157,81
+/tianocore/edk2-libc/tree/master/AppPkg,105,28
+/tianocore/edk2-libc/tree/master/StdLib,102,23
+/tianocore/edk2-libc/tree/master/AppPkg/Applications/Python/Python-3.6.8,93,25
+/tianocore/edk2-libc/tree/master/AppPkg/Applications,81,23
+/tianocore/edk2-libc/tree/master/StdLib/LibC,29,9
+/tianocore/edk2-libc/tree/master,28,15
+/tianocore/edk2-libc/tree/master/StdLib/LibC/CRT/Ia32,27,2
+/tianocore/edk2-libc/pulls,25,7
