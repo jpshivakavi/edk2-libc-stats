@@ -15,6 +15,6 @@ jobs:
         # Use latest release.
         uses: jgehrcke/github-repo-stats@HEAD
         with:
-          repository: jpshivakavi/nativecode-python
+          repository: jpshivakavi/nativecode_with_python
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           databranch: main
