@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/tianocore/edk2-libc,114,73
+/tianocore/edk2-libc/blob/master/AppPkg/Applications/Python/Python-3.6.8/Py368ReadMe.txt,74,68
+/tianocore/edk2-libc/tree/master/StdLib,40,19
+/tianocore/edk2-libc/tree/master/AppPkg,30,22
+/tianocore/edk2-libc/tree/master/AppPkg/Applications,27,13
+/tianocore/edk2-libc/tree/master/AppPkg/Applications/Python/Python-3.6.8,24,17
+/tianocore/edk2-libc/actions/workflows/build-python-uefi-vs2022.yaml,19,7
+/tianocore/edk2-libc/releases/tag/v3.6.8.1,18,11
+/tianocore/edk2-libc/tree/master,15,8
+/tianocore/edk2-libc/tree/master/StdLib/LibC,13,7
