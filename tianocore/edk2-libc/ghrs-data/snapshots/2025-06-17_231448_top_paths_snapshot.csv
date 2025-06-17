@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/tianocore/edk2-libc,129,89
+/tianocore/edk2-libc/blob/master/AppPkg/Applications/Python/Python-3.6.8/Py368ReadMe.txt,115,76
+/tianocore/edk2-libc/tree/master/StdLib,47,16
+/tianocore/edk2-libc/tree/master/AppPkg/Applications/Python/Python-3.6.8,41,20
+/tianocore/edk2-libc/tree/master/AppPkg,38,24
+/tianocore/edk2-libc/tree/master,33,15
+/tianocore/edk2-libc/tree/master/AppPkg/Applications,26,18
+/tianocore/edk2-libc/issues,12,6
+/tianocore/edk2-libc/releases/tag/v3.6.8.1,10,8
+/tianocore/edk2-libc/blob/a08474ffc0dd98dda338946849dc56b11837ad7f/StdLib/LibC/Main/Arm/flt_rounds.c,10,6
